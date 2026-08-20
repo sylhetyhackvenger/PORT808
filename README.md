@@ -1,5 +1,5 @@
 # UNDER CONSTRUCTION 🏗 but limited now
-# PORT808 - Advanced Network Reconnaissance & Security Assessment Tool for ports identifying
+# PORT808 - Advanced Network Reconnaissance & Security Assessment Tool for Ports Identifying
 
 
 PORT808 is an enterprise-grade network reconnaissance and security assessment framework engineered for professional penetration testing and authorized security research. This pure Python implementation represents the culmination of advanced cybersecurity methodologies, incorporating state-of-the-art scanning techniques, protocol fingerprinting, vulnerability detection, and comprehensive reporting capabilities.
